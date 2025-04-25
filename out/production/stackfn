@@ -1,0 +1,18 @@
+import java .util.Stack;
+public class Main
+ {
+    public static void main(String[] args) 
+    {
+        Stack<integer>Stack=new Stack<>();
+
+        Stack.push(10);
+        Stack.push(40);
+        Stack.push(50);
+        Stack.push(80);
+System.out.printlb(Stack);
+System.out.printlb(Stack.pop);
+System.out.printlb(Stack.isEmpty());
+
+
+    }
+}
